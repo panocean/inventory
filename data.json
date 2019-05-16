@@ -1,0 +1,254 @@
+[
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Omolara Ogunbi",
+      "Dept .": "Reception",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JMV"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PD48"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Nnennaya Fakoya-Smith",
+      "Dept .": "Reception",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JMH"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PD8T"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "14th Floor Reception",
+      "Dept .": "Reception",
+      "Floor": 14,
+      "CPU Model": "",
+      "CPUS": {
+         "N": ""
+      },
+      "VDU": "",
+      "VDU S": {
+         "N": ""
+      },
+      "Phone": "Cisco IP Phone 7911",
+      "Accessories 1": ""
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Roseline Lawal",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JLZ"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PDDC"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Oluremi Adedeji",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JMJ"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PDOG"
+      },
+      "Phone": "Cisco IP  Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Babajide Ibironke",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JLQ"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PDFW"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Luke Gozoh",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JM9"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PCX7"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Bukola Omolohnmu",
+      "Dept .": "CMD'S Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "USH 332A1EO"
+      },
+      "VDU": "HP S2031a",
+      "VDU S": {
+         "N": "3CQ 049PCL4"
+      },
+      "Phone": "Cisco IP Phone 7941",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Tosan Oni",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JM2"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PCLX "
+      },
+      "Phone": "Cisco IP Phone 7962",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Visiting Executive(OP Base)",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TRF 3080JLM"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PCZC"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "Oye Akindele-Obe",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP Compaq Elite 8300",
+      "CPUS": {
+         "N": "TFR 3080JMG"
+      },
+      "VDU": "HP Compaq LA 2006X",
+      "VDU S": {
+         "N": "CNC 301PD9K"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "A.V Felix",
+      "Dept .": "CMD's Office",
+      "Floor": 14,
+      "CPU Model": "HP ProBook  Laptop 640GZ",
+      "CPUS": {
+         "N": "5CG8090VP2"
+      },
+      "VDU": "HP LV2011",
+      "VDU S": {
+         "N": "CNC 802NQV9"
+      },
+      "Phone": "Cisco IP Phone 7942",
+      "Accessories 1": "HP Mouse"
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "",
+      "Dept .": "",
+      "Floor": null,
+      "CPU Model": "",
+      "CPUS": {
+         "N": ""
+      },
+      "VDU": "",
+      "VDU S": {
+         "N": ""
+      },
+      "Phone": "",
+      "Accessories 1": ""
+   },
+    {
+      "S": {
+         "N": ""
+      },
+      "User": "",
+      "Dept .": "",
+      "Floor": null,
+      "CPU Model": "",
+      "CPUS": {
+         "N": ""
+      },
+      "VDU": "",
+      "VDU S": {
+         "N": ""
+      },
+      "Phone": "",
+      "Accessories 1": ""
+   }
+   ]
